@@ -44,7 +44,7 @@
 				<apigee.env>test</apigee.env>
 				<apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
 				<apigee.apiversion>v1</apigee.apiversion>
-				<apigee.org>${org}</apigee.org>
+				<apigee.org>prathameshmore777-eval</apigee.org>
 				<apigee.authtype>oauth</apigee.authtype> <!-- optional: oauth|basic(default) -->
 				<apigee.tokenurl>https://login.apigee.com/oauth/token</apigee.tokenurl> <!-- update to https://zoneName.login.apigee.com/oauth/token -->
 				<apigee.username>${username}</apigee.username> <!-- machine user -->
@@ -63,7 +63,7 @@
 				<apigee.env>prod</apigee.env>
 				<apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
 				<apigee.apiversion>v1</apigee.apiversion>
-				<apigee.org>${org}</apigee.org>
+				<apigee.org>prathameshmore777-eval</apigee.org>
 				<apigee.authtype>oauth</apigee.authtype> <!-- optional: oauth|basic(default) -->
 				<apigee.tokenurl>https://login.apigee.com/oauth/token</apigee.tokenurl> <!-- update to https://zoneName.login.apigee.com/oauth/token -->
 				<apigee.username>${username}</apigee.username> <!-- machine user -->
